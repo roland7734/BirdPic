@@ -19,7 +19,6 @@ This Flutter application allows users to take a picture of a bird, crop it, and 
 - **Dart**: The programming language used for Flutter development.
 - **EfficientNetB0**: A pre-trained convolutional neural network model used for species identification.
 - **Image Cropping**: A package for cropping images within the app.
-- **HTTP Package**: Used for making API calls to fetch Wikipedia articles.
 
 ## Getting Started
 
@@ -27,13 +26,13 @@ This Flutter application allows users to take a picture of a bird, crop it, and 
 
 - Flutter SDK
 - Dart SDK
-- An IDE (e.g., Visual Studio Code, Android Studio)
+- Android Studio IDE
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/bird-identification-app.git
+   git clone https://github.com/roland7734/BirdPic.git
    cd bird-identification-app
    
 2. Install dependencies:
