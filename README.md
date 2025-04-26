@@ -33,7 +33,7 @@ This Flutter application allows users to take a picture of a bird, crop it, and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/roland7734/BirdPic.git
-   cd bird-identification-app
+   cd BirdPic
    
 2. Install dependencies:
 	```bash
